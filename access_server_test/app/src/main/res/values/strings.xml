@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">access_server_test</string>
+    <string name="create">create account</string>
+    <string name="ACCOUNT_TYPE">com.Account</string>
+</resources>
